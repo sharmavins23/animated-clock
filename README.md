@@ -6,6 +6,8 @@ This project is a follow-along of
 It's a humble beginning to a large number of projects related to shaders, game
 development, and graphical programming.
 
+![img](img/clock.png)
+
 The project implements an analog clock with rotating hour, minute, and second
 hands. These hands rotate in accordance with the system's current time.
 
